@@ -43,7 +43,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 ## 💬 Languages
 
 **Thai**: Native <br>
-**English**
+**English** <br>
 **Japanese**
 <br><br>
 

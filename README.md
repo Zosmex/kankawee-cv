@@ -56,6 +56,6 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 [Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_
 
 ## ✉️ Contact
-**Email**: [kankawee.ch@gmail.com](mailto:kankawee.ch@gmail.com)
-**Tel**: 0841094759
-**Facebook**: [Krawan Kankawee](https://www.facebook.com/k.kankawee)
+**Email**: [kankawee.ch@gmail.com](mailto:kankawee.ch@gmail.com) <br>
+**Tel**: 0841094759 <br>
+**Facebook**: [Krawan Kankawee](https://www.facebook.com/k.kankawee) <br>

@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Kankawee Chanasit
 
-You can use the [editor on GitHub](https://github.com/Zosmex/kankawee-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data Scientist | Data Engineer <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:kankawee.ch@gmail.com) / [Facebook](https://www.facebook.com/k.kankawee)/ [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
 
-### Markdown
+# 💻 Technical Researches
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Music Composition using Machine Learning** ) _(2018)_ <br>
+  Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory.
+  <br><br>
+  
+**A Real Estate Valuation Model using a Boosted Feature Selection** ) _(2018)_ <br>
+  Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influence the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative feature without an effect from data variation due to its characteristic as a global sensitivity analysis.
+  <br><br>
 
-```markdown
-Syntax highlighted code block
+## 📌 Skill Summaries
 
-# Header 1
-## Header 2
-### Header 3
+**Application** <br>
+  - Google Cloud Platform (GCP)
+  - Jupyter Notebook
+  - Microsoft Office
+  - Power BI
+  - Tableau
+  <br><br>
 
-- Bulleted
-- List
+**Programming** <br>
+  - Python
+  - Java
+  - Data Mining
+  - Data Pipeline
+  - Data Analysis
+  - Hadoop (Big data)
+  - Machine Learning 
+  - SQL
+  <br><br>
+  
+**Database** <br>
+  - SQL Sever
+  - MongoDB
+  <br><br>
 
-1. Numbered
-2. List
+## 💬 Languages
 
-**Bold** and _Italic_ and `Code` text
+**Thai**: Native <br>
+**English**
+**Japanese**
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+## 👩🏼‍🎓 Education
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Master of Computer Engineering** <br>
+[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2020)_
 
-### Jekyll Themes
+**Bachelor of Computer Engineering** <br>
+[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zosmex/kankawee-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

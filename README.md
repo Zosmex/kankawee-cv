@@ -4,7 +4,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 
 [Email](mailto:kankawee.ch@gmail.com) / [Facebook](https://www.facebook.com/k.kankawee)/ [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
 
-# 💻 Technical Researches
+## 💻 Technical Researches
 
 **Music Composition using Machine Learning** ) _(2018)_ <br>
   Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory.
@@ -47,7 +47,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 **Japanese**
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 🎓 Education
 
 **Master of Computer Engineering** <br>
 [Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2020)_
@@ -55,3 +55,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 **Bachelor of Computer Engineering** <br>
 [Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_
 
+## ✉️ Contact
+**Email**: [kankawee.ch@gmail.com](mailto:kankawee.ch@gmail.com)
+**Tel**: 0841094759
+**Facebook**: [Krawan Kankawee](https://www.facebook.com/k.kankawee)

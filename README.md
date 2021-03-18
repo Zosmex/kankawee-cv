@@ -26,13 +26,12 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 
 **Programming** <br>
   - Python
-  - Java
   - Data Mining
-  - Data Pipeline
+  - Data Pipeline (ETL)
   - Data Analysis
-  - Hadoop (Big data)
+  - Hadoop (Big data), Spark
   - Machine Learning 
-  - SQL
+  - Cloud Services
   <br><br>
   
 **Database** <br>

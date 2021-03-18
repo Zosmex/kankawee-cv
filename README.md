@@ -49,7 +49,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 ## 🎓 Education
 
 **Master of Computer Engineering** <br>
-[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2020)_
+[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2021)_
 
 **Bachelor of Computer Engineering** <br>
 [Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_

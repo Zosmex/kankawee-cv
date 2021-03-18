@@ -31,7 +31,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
   - Data Analysis
   - Hadoop (Big data), Spark
   - Machine Learning 
-  - Cloud Services
+  - Cloud Services (AWS, GCP)
   <br><br>
   
 **Database** <br>

@@ -18,8 +18,8 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 
 **Application** <br>
   - Google Cloud Platform (GCP)
+  - Amazon Web Service (AWS)
   - Jupyter Notebook
-  - Microsoft Office
   - Power BI
   - Tableau
   <br><br>

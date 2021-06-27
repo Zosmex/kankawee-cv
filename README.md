@@ -35,7 +35,7 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
   <br><br>
   
 **Database** <br>
-  - SQL Sever
+  - SQL Server
   - MongoDB
   <br><br>
 

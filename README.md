@@ -27,6 +27,14 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 **A Real Estate Valuation Model using a Boosted Feature Selection** ) _(2020)_ <br>
   Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influence the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative feature without an effect from data variation due to its characteristic as a global sensitivity analysis.
   <br><br>
+  
+## 🎓 Education
+
+**Master of Computer Engineering** <br>
+[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2021)_
+
+**Bachelor of Computer Engineering** <br>
+[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_
 
 ## 📌 Skill Summaries
 
@@ -73,15 +81,7 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 **Japanese**
 <br><br>
 
-## 🎓 Education
-
-**Master of Computer Engineering** <br>
-[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2018 - 2021)_
-
-**Bachelor of Computer Engineering** <br>
-[Chulalongkorn University](https://www.chula.ac.th/) - Bangkok, Thailand _(2014 - 2018)_
-
 ## ✉️ Contact
 **Email**: [kankawee.ch@gmail.com](mailto:kankawee.ch@gmail.com) <br>
-**Tel**: 0841094759 <br>
+**Tel**: (+66)841094759 <br>
 **Facebook**: [Krawan Kankawee](https://www.facebook.com/k.kankawee) <br>

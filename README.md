@@ -1,8 +1,22 @@
 # Kankawee Chanasit
 
-Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
+Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 
 [Email](mailto:kankawee.ch@gmail.com) / [Facebook](https://www.facebook.com/k.kankawee)/ [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
+
+## 👨‍💻 Working Expriences
+
+**ZRCH CO., LTD., Bangkok, Thailand — Data Engineer** ) _October 2021 – Now_ <br>
+  Design data pipeline and data warehouse to store and analysis the Australian real estate data from partner agency in near real-time using AWS Lambda, AWS Redshift and AWS Kinesis.
+  <br><br>
+
+**Equitable Education Fund, Bangkok, Thailand – Short contract** )_January 2021 – March 2021_ <br> 
+  Doing data wangling and data engineering process for scholarship student to illustrate statistical analysis.
+  <br><br>
+
+**Department of Architecture for Intelligence, Osaka University, Osaka, Japan — Internship Student** ) _June 2017 - July 2017_ <br> 
+  Recognizing music notes pattern according to its genre using traditional algorithm. The result led to the fundamental of automated composition model.
+  <br><br>
 
 ## 💻 Technical Researches
 
@@ -16,27 +30,40 @@ Data Scientist | Data Engineer | Data Analyst | Machine Learning Engineer <br>
 
 ## 📌 Skill Summaries
 
-**Application** <br>
-  - Google Cloud Platform (GCP)
+**Cloud Services** <br>
   - Amazon Web Service (AWS)
+    - Lambda
+    - Event Bridge
+    - Kinesis
+    - Redshift
+    - QuickSign
+  
+  - Google Cloud Platform (GCP)
+    - GCC
+    - BigQuery
+  
+  - Airflow
+  <br><br>
+
+**Software & Tools** <br>
+  - ElasticSearch
+  - RebbitMQ
   - Jupyter Notebook
   - Power BI
   - Tableau
-  <br><br>
+<br><br>
 
 **Programming** <br>
   - Python
-  - Data Mining
-  - Data Pipeline (ETL)
-  - Data Analysis
-  - Hadoop (Big data), Spark
-  - Machine Learning 
-  - Cloud Services (AWS, GCP)
+  - SQL
+  - Spark (PySpark)
+  - Machine Learning (Tensorflow, Keras)
   <br><br>
   
 **Database** <br>
-  - SQL Server
-  - MongoDB
+  - PostgreSQL (on Redshift)
+  - MongoDb
+  - ElasticSearch
   <br><br>
 
 ## 💬 Languages

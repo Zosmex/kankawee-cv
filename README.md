@@ -8,7 +8,10 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 
 **ZRCH CO., LTD., Bangkok, Thailand — Data Engineer**  <br>
   _October 2021 – Now_ :
-  Design data pipeline and data warehouse to store and analysis the Australian real estate data from partner agency in near real-time using AWS Lambda, AWS Redshift and AWS Kinesis.
+  - Design, implement, and maintain data pipelines and data warehouses to process the Australian and Norwegian real estate data in near real-time and store them in end-point databases for further use.
+  - Research new technical software or services to improve the pipeline
+  - Do the data support task for other team
+  - Assist data scientists in deploying machine learning models in our system.
   <br><br>
 
 **Equitable Education Fund, Bangkok, Thailand – Short contract** <br> 
@@ -18,17 +21,17 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 
 **Department of Architecture for Intelligence, Osaka University, Osaka, Japan — Internship Student**  <br>
   _June 2017 - July 2017_ : 
-  Recognizing music notes pattern according to its genre using traditional algorithm. The result led to the fundamental of automated composition model.
+  Recognizing music notes pattern according to its genre using traditional algorithm. The result led to the fundamentals of the automated composition model.
   <br><br>
 
 ## 💻 Technical Researches
 
 **Music Composition using Machine Learning**  _(2018)_ <br>
-  Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory.
+  Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from the rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory.
   <br><br>
   
 **A Real Estate Valuation Model using a Boosted Feature Selection**  _(2020)_ <br>
-  Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influence the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative feature without an effect from data variation due to its characteristic as a global sensitivity analysis.
+  Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influences the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative features without an effect from data variation due to its characteristic as a global sensitivity analysis.
   <br><br>
   
 ## 🎓 Education
@@ -45,36 +48,37 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
   - Amazon Web Service (AWS)
     - Lambda
     - Event Bridge
-    - Kinesis
-    - Redshift
-    - QuickSign
+    - Glue
+    - RDS, Redshift, S3
+    
   
   - Google Cloud Platform (GCP)
     - GCC
     - BigQuery
   
-  - Airflow
+  - Airflow, Prefect
   <br><br>
 
-**Software & Tools** <br>
+**Databases** <br>
   - ElasticSearch
-  - RebbitMQ
-  - Jupyter Notebook
-  - Power BI
-  - Tableau
+  - MySQL, PostgreSQL
+  - MongoDB
+  - Redis
+<br><br>
+
+**Software & Tools** <br>
+  - Apache Pulsar
+  - Apache Kafka
+  - Celery
+  - Docker
+  
 <br><br>
 
 **Programming** <br>
   - Python
   - SQL
-  - Spark (PySpark)
+  - Apache Spark (PySpark, SparkSQL)
   - Machine Learning (Tensorflow, Keras)
-  <br><br>
-  
-**Database** <br>
-  - PostgreSQL (on Redshift)
-  - MongoDb
-  - ElasticSearch
   <br><br>
 
 ## 💬 Languages

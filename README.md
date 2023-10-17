@@ -2,21 +2,21 @@
 
 Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
 
-[Email](mailto:kankawee.ch@gmail.com) / [Facebook](https://www.facebook.com/k.kankawee)/ [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
+[Email](mailto:kankawee.ch@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
 
 ## 👨‍💻 Working Expriences
 
 **ZRCH CO., LTD., Bangkok, Thailand — Data Engineer**  <br>
   _October 2021 – Now_ :
-  - Design, implement, and maintain data pipelines and data warehouses to process the Australian and Norwegian real estate data in near real-time and store them in end-point databases for further use.
-  - Research new technical software or services to improve the pipeline
-  - Do the data support task for other team
-  - Assist data scientists in deploying machine learning models in our system.
+  - Build data pipelines and data warehouses to process the Australian and Norwegian real estate data and store them in end-point databases for further use.
+  - Designed and implemented a real-time data ingestion pipeline from MongoDB using AWS Lambda and EventBridge
+  - Applied Apache Pulsar to eliminate the limitation of message comsumption from Lamnda
+  - Assisted data scientists in deploying the machine learning model on Fast API.
   <br><br>
 
 **Equitable Education Fund, Bangkok, Thailand – Short contract** <br> 
   _January 2021 – March 2021_ :
-  Doing data wangling and data engineering process for scholarship student to illustrate statistical analysis.
+  Doing data wrangling and data engineering processes for scholarship students to illustrate the statistical analysis.
   <br><br>
 
 **Department of Architecture for Intelligence, Osaka University, Osaka, Japan — Internship Student**  <br>
@@ -71,7 +71,6 @@ Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
   - Apache Kafka
   - Celery
   - Docker
-  
 <br><br>
 
 **Programming** <br>

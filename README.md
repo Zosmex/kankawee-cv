@@ -27,11 +27,11 @@ Data Engineer | Data Scientist <br>
 ## 💻 Technical Researches
 
 **Music Composition using Machine Learning**  _(2018)_ <br>
-  Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from the rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory.
+  Proposing the ML model based on LSTMs to compose the music based on the genre. The result from each genre is compared to the result from the rule-based method in MIDI format. The challenge of this research is to identify the characteristic melodies and chords of each genre from examples and compose the audible music according to music theory. [link](https://ieeexplore.ieee.org/document/9454508)
   <br><br>
   
 **A Real Estate Valuation Model using a Boosted Feature Selection**  _(2020)_ <br>
-  Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influences the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative features without an effect from data variation due to its characteristic as a global sensitivity analysis.
+  Providing the feature selection method for property valuation. The method is based on boosting strategy and improved Garson's algorithm. The purpose of this research is to identify the impact factor that influences the house price and to reduce model complexity. This method can improve its performance in each iteration and select all of the informative features without an effect from data variation due to its characteristic as a global sensitivity analysis. [link](https://ieeexplore.ieee.org/document/8457397)
   <br><br>
   
 ## 🎓 Education

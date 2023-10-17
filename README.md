@@ -1,6 +1,6 @@
 # Kankawee Chanasit
 
-Data Engineer | Data Scientist | Data Analyst | Machine Learning Engineer <br>
+Data Engineer | Data Scientist <br>
 
 [Email](mailto:kankawee.ch@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
 

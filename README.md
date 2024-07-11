@@ -7,7 +7,7 @@ Data Engineer | Data Scientist <br>
 ## 👨‍💻 Working Expriences
 
 **Adastra CO., LTD., Bangkok, Thailand — AWS Data Engineer**  <br>
-  _October 2021 – December 2023_ :
+  _January 2024 – Now_ :
   - Implement monitoring and notification system using NewRelic in Volswagen project
   - Integrate AWS computing services to build data processing pipeline for Audi and Volkswagen customer
   - Develope and implement terraform module

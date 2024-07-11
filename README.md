@@ -6,8 +6,15 @@ Data Engineer | Data Scientist <br>
 
 ## 👨‍💻 Working Expriences
 
+**Adastra CO., LTD., Bangkok, Thailand — AWS Data Engineer**  <br>
+  _October 2021 – December 2023_ :
+  - Implement monitoring and notification system using NewRelic in Volswagen project
+  - Integrate AWS computing services to build data processing pipeline for Audi and Volkswagen customer
+  - Develope and implement terraform module
+  <br><br>
+
 **ZRCH CO., LTD., Bangkok, Thailand — Data Engineer**  <br>
-  _October 2021 – Now_ :
+  _October 2021 – December 2023_ :
   - Build data pipelines and data warehouses to process the Australian and Norwegian real estate data and store them in end-point databases for further use.
   - Designed and implemented a real-time data ingestion pipeline from MongoDB using AWS Lambda and EventBridge
   - Applied Apache Pulsar to eliminate the limitation of message comsumption from Lamnda
@@ -71,6 +78,7 @@ Data Engineer | Data Scientist <br>
   - Apache Kafka
   - Celery
   - Docker
+  - Terraform
 <br><br>
 
 **Programming** <br>

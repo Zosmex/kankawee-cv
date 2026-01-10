@@ -1,6 +1,6 @@
 # Kankawee Chanasit
 
-Data Engineer | Data Scientist <br>
+Data Engineer | Data Platform Engineer | Data Scientist <br>
 
 [Email](mailto:kankawee.ch@gmail.com) / [LinkedIn](https://www.linkedin.com/in/kankawee-chanasit-a4b715194/) / [GitHub](https://github.com/Zosmex/)
 
@@ -8,17 +8,19 @@ Data Engineer | Data Scientist <br>
 
 **Adastra CO., LTD., Bangkok, Thailand — AWS Data Engineer**  <br>
   _January 2024 – Now_ :
-  - Implement monitoring and notification system using NewRelic in Volswagen project
-  - Integrate AWS computing services to build data processing pipeline for Audi and Volkswagen customer
-  - Develope and implement terraform module
+  - Designed and enhanced scalable Spark-based ETL pipelines using AWS Glue and Apache Hudi to process large-scale customer datasets into analytics-ready tables.
+  - Optimized PySpark jobs by improving partitioning strategies, execution plans, and error handling, increasing pipeline stability and reliability in production.
+  - Built reusable Terraform modules to standardize AWS data infrastructure provisioning and reduce setup time for new pipelines.
+  - Implemented monitoring, alerting, and notification systems by integrating AWS resource usage metrics with New Relic to improve pipeline observability and operational reliability.
   <br><br>
 
 **ZRCH CO., LTD., Bangkok, Thailand — Data Engineer**  <br>
   _October 2021 – December 2023_ :
-  - Build data pipelines and data warehouses to process the Australian and Norwegian real estate data and store them in end-point databases for further use.
-  - Designed and implemented a real-time data ingestion pipeline from MongoDB using AWS Lambda and EventBridge
-  - Applied Apache Pulsar to eliminate the limitation of message comsumption from Lamnda
-  - Assisted data scientists in deploying the machine learning model on Fast API.
+  - Designed, built, and maintained end-to-end data ingestion pipelines for real estate and marketing platforms.
+Implemented batch and event-driven architectures using AWS Glue and Apache Pulsar.
+  - Integrated third-party APIs and ML-driven enrichment pipelines (POI data, predictions).
+  - Supported increasing data volumes by improving pipeline scalability and reliability.
+
   <br><br>
 
 **Equitable Education Fund, Bangkok, Thailand – Short contract** <br> 
@@ -51,42 +53,13 @@ Data Engineer | Data Scientist <br>
 
 ## 📌 Skill Summaries
 
-**Cloud Services** <br>
-  - Amazon Web Service (AWS)
-    - Lambda
-    - Event Bridge
-    - Glue
-    - RDS, Redshift, S3
-    
-  
-  - Google Cloud Platform (GCP)
-    - GCC
-    - BigQuery
-  
-  - Airflow, Prefect
-  <br><br>
-
-**Databases** <br>
-  - ElasticSearch
-  - MySQL, PostgreSQL
-  - MongoDB
-  - Redis
-<br><br>
-
-**Software & Tools** <br>
-  - Apache Pulsar
-  - Apache Kafka
-  - Celery
-  - Docker
-  - Terraform
-<br><br>
-
-**Programming** <br>
-  - Python
-  - SQL
-  - Apache Spark (PySpark, SparkSQL)
-  - Machine Learning (Tensorflow, Keras)
-  <br><br>
+**Programming & Querying**: Python, SQL, JavaScript
+**Big Data Processing & Orchestration**: Apache Spark, Apache Airflow, Apache Kafka, Prefect
+**Databases**: MongoDB, Relational Databases
+**Cloud & Data Platforms**: AWS (EC2, Glue, S3), GCP (BigQuery, Dataform)
+**AI & ML**: Recommendation System, Price Prediction, Feature Selection, Speech Recognition.
+**Infrastructure**: Docker, Kubernetes, Terraform
+**Data Engineering Practices**: Data Modeling, ETL/ELT, Performance Tuning, Data Quality
 
 ## 💬 Languages
 
